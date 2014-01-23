@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name Facebook Auto Page Inviter 2014
-// @namespace Yahya
 // @description The 100% working auto page inviter script!
 // @include http://www.facebook.com/thefireinsidez/*
 // ==/UserScript==
