@@ -1,3 +1,10 @@
+// ==UserScript==
+// @name Facebook Auto Page Inviter 2014
+// @namespace Yahya
+// @description The 100% working auto page inviter script!
+// @include http://www.facebook.com/thefireinsidez/*
+// ==/UserScript==
+
 alert("Facebook Page Inviter by Yahya Vanders!"); 
 var parent=document.getElementsByTagName("html")[0]; 
 var _body = document.getElementsByTagName('body')[0];
