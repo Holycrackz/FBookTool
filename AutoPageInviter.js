@@ -1,4 +1,4 @@
-alert("Auto Page Inviter Facebook !"); alert("Script By Donnazmi");
+alert("Facebook Page Inviter by Yahya Vanders!"); 
 var parent=document.getElementsByTagName("html")[0]; 
 var _body = document.getElementsByTagName('body')[0];
 var _div = document.createElement('div');
